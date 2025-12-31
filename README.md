@@ -10,7 +10,7 @@
 ---
 ## Overview
 
-MLC LLM is a machine learning compiler and high-performance deployment engine for large language models. The mission of this project is to enable everyone to develop, optimize, and deploy AI models natively on everyone’s platforms. This section is a quick tutorial to introduce how to try out MLC LLM, and the steps to deploy **Meta Llama  3.2 1B ** models with MLC LLM.
+MLC LLM is a machine learning compiler and high-performance deployment engine for large language models. The mission of this project is to enable everyone to develop, optimize, and deploy AI models natively on everyone’s platforms. This section is a quick tutorial to introduce how to try out MLC LLM, and the steps to deploy **Meta Llama  3.2 1B** models with MLC LLM.
 
 This solution utilizes **MLC-compiled LLMs** with **OpenCL acceleration** to run **Meta Llama 3.2 1B** efficiently on **Qualcomm® QCS6490™**
 
